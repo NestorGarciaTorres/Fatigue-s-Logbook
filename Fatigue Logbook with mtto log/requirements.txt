@@ -1,0 +1,5 @@
+# Fatigue Logbook - dependencias
+# Verificado con Python 3.13.14 (las ruedas de PySide6 son cp39-abi3)
+
+PySide6==6.8.1.1
+openpyxl==3.1.5
