@@ -1,6 +1,0 @@
-{
-  "database_path": "db/test_records.db",
-  "backup_dir": "db backups",
-  "backup_keep": 30,
-  "auto_backup": true
-}
